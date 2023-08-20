@@ -1,0 +1,11 @@
+1. Import Database sql extension
+
+ADMIN EMAIL & PASSWORD
+admin@gmail.com
+-> admin123
+
+USER EMAIL & PASSWORD
+doraemon@gmail.com
+-> dora123
+
+2. Now you can enjoy EMS
